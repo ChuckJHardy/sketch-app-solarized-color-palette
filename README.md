@@ -25,7 +25,15 @@ This is the [Sketch App](https://www.sketchapp.com/) Color Palette for [Solarize
 }
 ```
 
-![Example](./example.png)
+### Sketch Palette
+
+![Example Sketch Palette](./example-sketchpalette.png)
+
+Install [Sketch Palettes by Andrew Fiorillo](https://github.com/andrewfiorillo/sketch-palettes) and load `sketch-app-solarized-color-palette.sketchpalette` via Plugins > Sketch Palettes > Load Palettes...
+
+### Sketch File
+
+![Example Sketch File](./example-sketchfile.png)
 
 ### Contributing
 
